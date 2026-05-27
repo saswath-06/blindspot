@@ -1,0 +1,6 @@
+# Large PLY model files
+frontend/public/models/
+
+# Preview directory (but keep PNGs)
+frontend/public/previews/*
+!frontend/public/previews/*.png
